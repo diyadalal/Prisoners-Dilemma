@@ -1,1 +1,1 @@
-CS 151 Group Projecr
+CS 151 Group Project
