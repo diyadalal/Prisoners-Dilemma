@@ -14,9 +14,7 @@ Java, Swing, MVC, Object-Oriented Design
 ## How to Run
 1. Open the project in an IDE 
 2. Ensure the shared MVC / SimStation framework folder is included in the project
-3. Navigate to  
-   [`PrisonersDilemmaSimulation.java`](src/simulation/PrisonersDilemmaSimulation.java)
-4. Run `PrisonersDilemmaSimulation.java`
+3. Navigate to PrisonersDilemmaSimulation.java,and run this class.
 5. Use the GUI menu to start the simulation and view statistics
 
 
